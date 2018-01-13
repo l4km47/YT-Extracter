@@ -1,0 +1,10 @@
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\bin\Debug\YT Extracter.exe.config
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\bin\Debug\YT Extracter.exe
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\bin\Debug\YT Extracter.pdb
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\bin\Debug\libvideo.dll
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\obj\Debug\YT Extracter.csprojResolveAssemblyReference.cache
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\obj\Debug\YT_Extracter.Properties.Resources.resources
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\obj\Debug\YT Extracter.csproj.GenerateResource.Cache
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\obj\Debug\YT Extracter.exe
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\obj\Debug\YT Extracter.pdb
+D:\New folder (2)\L4KM47\Projects\Projects\C#\2017\YT Extracter\YT Extracter\obj\Debug\YT_Extracter.Form1.resources
